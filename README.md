@@ -28,7 +28,7 @@ This project is a **Streamlit-based web application** that ranks resumes based o
 ### 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/rajesh31082001/Resume_Ranking.git
-cd resume-ranking-app
+cd Resume_Ranking
 ```
 
 ### 2️⃣ **Install Dependencies**
